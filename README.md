@@ -1,16 +1,16 @@
-# IT_Project
-A Photography Website landing page as part of our Internet Technologies curriculum.
+# IT_Project<br>
+A Photography Website landing page as part of our Internet Technologies curriculum.<br><br>
 
-Our Team:
-ARPIT TANEJA 88012
-GOURAB DAS 88006 
-SUPRATIK LAYEK 88077 
-TANU SONI 88067 
-SAMYAK TRIPATHI 88047 
+Our Team:<br>
+ARPIT TANEJA 88012 <br>
+GOURAB DAS 88006 <br>
+SUPRATIK LAYEK 88077 <br>
+TANU SONI 88067 <br>
+SAMYAK TRIPATHI 88047 <br>
 
-Technologies Used:
-HTML5
-CSS3
-JavaScript
-jQuery
-Node.js
+Technologies Used:<br>
+HTML5<br>
+CSS3<br>
+JavaScript<br>
+jQuery<br>
+Node.js<br>
